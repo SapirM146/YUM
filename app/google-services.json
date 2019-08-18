@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "388197780254",
+    "firebase_url": "https://yumdb-beaa5.firebaseio.com",
+    "project_id": "yumdb-beaa5",
+    "storage_bucket": "yumdb-beaa5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388197780254:android:c4003c65f757510c",
+        "android_client_info": {
+          "package_name": "com.itaisapir.yum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388197780254-00gtp3fopa25947289fg1e10v15taota.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itaisapir.yum",
+            "certificate_hash": "c7f50093f33efb31bc6d500d3b3328b2ad4d626d"
+          }
+        },
+        {
+          "client_id": "388197780254-9m32esio6kg7reocso6at5ri6qqejm43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtjkO2CHDpMZn1bnRDLwN1FmrgvNrzy-k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388197780254-9m32esio6kg7reocso6at5ri6qqejm43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
