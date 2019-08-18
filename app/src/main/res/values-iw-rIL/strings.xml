@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YUM</string>
+    <string name="main_category_title">הקטגוריות שלי</string>
+    <string name="user_email">אימייל</string>
+    <string name="user_password">סיסמא</string>
+    <string name="sign_up">הירשם</string>
+    <string name="forgot_password">שכחתי סיסמא</string>
+    <string name="sign_in">התחבר</string>
+    <string name="sign_in_incorrect">אימייל או סיסמא לא נכונים</string>
+    <string name="sign_out">התנתק</string>
+    <string name="reset_password_email_sent">אימייל איפוס סיסמא נשלח ל- </string>
+
+    <string name="searchText">חפש</string>
+    <string name="settingsUnderline"><u>הגדרות</u></string>
+    <string name="settings">הגדרות</string>
+    <string name="google_maps_key">AIzaSyBSFy1nBV1mvYtPRRAYfYqOzxj6UcBN3nc</string>
+    <string name="back">חזרה</string>
+    <string name="save">שמור</string>
+    <string name="open">צפה במתכון</string>
+    <string name="share">שתף</string>
+    <string name="edit">עריכה</string>
+    <string name="link">לינק:</string>
+    <string name="notes">הערות:</string>
+    <string name="public_text">ציבורי?</string>
+    <string name="ok">אשר</string>
+    <string name="cancel">בטל</string>
+    <string name="back_double">לחץ חזרה שוב כדי לצאת</string>
+    <string name="back_double_add">לחץ חזרה שוב כדי לחזור</string>
+
+    <string name="no_camera">אין מצלמה במכשיר שלך!</string>
+    <string name="upload_message">המתכון נשמר</string>
+    <string name="error_message">אירעה שגיאה</string>
+    <string name="load_error">טעינת חלק מהתמונות נכשלה</string>
+    <string name="recipe_error_message">העלאת המתכון נכשלה</string>
+    <string name="error_recipe">לא ניתן לטעון את המתכון</string>
+    <string name="category_exists">הקטגוריה קיימת</string>
+    <string name="share_recipe">שתף מתכון באמצעות:</string>
+    <string name="subscribe_fail">המעקב נכשל</string>
+    <string name="subscribe_success">המעקב בוצע בהצלחה</string>
+    <string name="unsubscribe_success">ביטול המעקב בוצע בהצלחה</string>
+    <string name="category_name_more_then_2">שם קטגוריה חייב להכיל\nלפחות 2 תווים</string>
+    <string name="email_check">האימייל לא תקין</string>
+    <string name="password_check">סיסמא חייבת להכיל לפחות 6 תווים</string>
+    <string name="registration_failed">הרישום נכשל</string>
+    <string name="sign_in_google">התחבר עם גוגל</string>
+    <string name="subscribe">עקוב אחר קטגוריה זו</string>
+    <string name="unsubscribe">ביטול מעקב</string>
+    <string name="world_search">הכנס שם קטגוריה לשורת החיפוש</string>
+    <string name="world_search_not_found">לא נמצאו תוצאות\nעבור החיפוש: </string>
+
+    <string name="time_based_notification_switch">התראות תזכורת</string>
+    <string name="message_from_yum">הודעה מ-YUM</string>
+    <string name="body_from_yum">YUM מתגעגע אליך</string>
+    <string name="tilt_for_bigger_pic">הטה את המכשיר כדי להציג תמונות גדולות</string>
+    <string name="world_category">קטגוריה עולמית</string>
+    <string name="recipe_name_title">שם המתכון</string>
+    <string name="recipe_name">שם המתכון:</string>
+    <string name="number_of_files">מספר הקבצים שצורפו:</string>
+    <string name="add_new_category_title">הוסף קטגוריה חדשה</string>
+    <string name="add_new_recipe_title">הוסף מתכון חדש</string>
+    <string name="add_new_category_button">הוסף קטגוריה \nחדשה</string>
+    <string name="add_new_recipe_button">הוסף מתכון \nחדש</string>
+    <string name="import_from_gallery">יבא תמונות\nמהגלריה</string>
+    <string name="take_a_photo_of_recipe">צלם תמונה\nשל מתכון</string>
+    <string name="recipe_name_more_then_2">שם מתכון חייב להכיל\nלפחות 2 תווים</string>
+    <string name="category_name_not_world_category">שם הקטגוריה איננו יכול להיות: </string>
+    <string name="category_name_not_special_letters">שם הקטגוריה איננו יכול להכיל את התווים\n . $ [ ] # </string>
+    <string name="registration_success">הרישום בוצע בהצלחה</string>
+
+    <string name="remove">מחיקה</string>
+
+    <string name="splash_long_time">ההתחברות לוקחת זמן רב,\n בדוק את חיבור האינטרנט </string>
+    <string name="recipe_remove">המתכון נמחק בהצלחה!</string>
+    <string name="check_recipe_remove">האם אתה בטוח שברצונך למחוק את המתכון?</string>
+    <string name="options">אפשרויות</string>
+    <string name="optionsUnderline"><u>אפשרויות</u></string>
+
+    <string name="changeLanguage">שפה:</string>
+    <string name="remove_q">למחוק קטגוריה זו?</string>
+    <string name="category_remove">הקטגוריה נמחקה בהצלחה!</string>
+
+
+</resources>

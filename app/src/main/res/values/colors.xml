@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DDD5B5</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorRecyclerClick">#C2D9EF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorSwitchClick">#006EDC</color>
+
+    <color name="linkColor">#3444EC</color>
+
+    <color name="worldCategoryBackground">#AEDBFF</color>
+    <color name="worldCategoryButtonsBackground">#B2DA80</color>
+    <color name="worldCategoryBright">#ECE9D6</color>
+    <color name="worldCategoryRecipeBackground">#ECE7D1</color>#C2D9EF#A9CCEE
+    <color name="worldCategoryCategoryBackground">#FFFFFF</color>
+    <color name="worldCategoryRecyclerClick">#D5CAA2</color>#568ED1
+
+
+    <color name="loginBackground">#DDD5B5</color>
+    <color name="loginButtonsBackground">#F8AB9F</color>
+    <color name="loginBright">#ECE9D6</color>
+    <color name="loginGoogleSignin">#000000</color>
+
+
+    <color name="categoryRecyclerCategoryBackground">#DDD5B5</color>
+    <color name="categoryRecyclerRecipeBackground">#CEB078</color>
+
+
+    <color name="categoryRecycler">#B58448</color>
+    <color name="categoryButtonsBackground">#6C913D</color>
+    <color name="categoryBright">#ECE9D6</color>
+
+
+    <color name="showRecipeButtonsBackground">#AD7747</color>
+    <color name="showRecipeBright">#EDCAA7</color>
+    <color name="showRecipeTitle">#93BCE4</color>
+    <color name="showRecipeTransparent">#5A000000</color>
+
+
+    <color name="addRecipeButtonsBackground">#006EDC</color>
+    <color name="addRecipeBright">#EDCAA7</color>#93BCE4
+    <color name="addRecipeTransparent">#1C000000</color>2F000000
+
+
+    <color name="custumeTransparent">#2F000000</color>
+
+    <color name="removeBright">#ECE9D6</color>#93BCE4
+    <color name="removeButtonsBackground">#F44336</color>2F000000
+
+
+</resources>

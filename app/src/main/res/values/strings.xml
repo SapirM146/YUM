@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">YUM</string>
+    <string name="google_maps_key">AIzaSyBSFy1nBV1mvYtPRRAYfYqOzxj6UcBN3nc</string>
+    <string name="main_category_title">My Categories</string>
+    <string name="user_email">Email</string>
+    <string name="user_password">Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_in_incorrect">Email or password are incorrect</string>
+    <string name="sign_out">Sign out</string>
+    <string name="reset_password_email_sent">Reset password email sent to </string>
+
+    <string name="searchText">Search</string>
+    <string name="settingsUnderline"><u>Settings</u></string>
+    <string name="settings">Settings</string>
+    <string name="add_new_category_button">Add new \ncategory</string>
+    <string name="add_new_category_title">Add new category</string>
+    <string name="add_new_recipe_button">Add new \nrecipe</string>
+    <string name="add_new_recipe_title">Add new recipe</string>
+    <string name="back">Back</string>
+    <string name="save">Save</string>
+    <string name="open">Open recipe</string>
+    <string name="share">Share</string>
+    <string name="edit">Edit</string>
+
+    <string name="import_from_gallery">Import from\ngallery</string>
+    <string name="take_a_photo_of_recipe">Take a photo\nof recipe</string>
+    <string name="recipe_name_title">Recipe Name</string>
+    <string name="recipe_name">Recipe Name:</string>
+    <string name="number_of_files">Number of files:</string>
+    <string name="link">Link:</string>
+    <string name="notes">Notes:</string>
+    <string name="public_text">Public?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="back_double">Please press BACK again to exit</string>
+    <string name="back_double_add">Please press BACK again to return</string>
+
+    <string name="no_camera">There is no camera in your phone!</string>
+    <string name="upload_message">The recipe is saved</string>
+    <string name="error_message">An error has occurred</string>
+    <string name="load_error">Failed to load some of the photos</string>
+    <string name="recipe_error_message">Recipe upload failed</string>
+    <string name="error_recipe">Unable to load the recipe</string>
+    <string name="category_exists">Category already exists</string>
+    <string name="share_recipe">Share recipe to..</string>
+    <string name="subscribe_fail">Subscribe failed</string>
+    <string name="subscribe_success">Subscribe success</string>
+    <string name="unsubscribe_success">Unsubscribe success</string>
+    <string name="category_name_more_then_2">Category name must have\nmore then 2 letters</string>
+    <string name="category_name_not_world_category">Category name can\'t be:</string>
+    <string name="category_name_not_special_letters">Category name can\'t contain the letters\n. $ [ ] #</string>
+
+
+    <string name="recipe_name_more_then_2">Recipe name must have\nmore then 2 letters</string>
+
+    <string name="email_check">Invalid email</string>
+    <string name="password_check">Password must be at least 6 characters</string>
+    <string name="registration_failed">Registration failed</string>
+    <string name="registration_success">Registration success</string>
+    <string name="sign_in_google">sign in with google</string>
+
+
+    <string name="subscribe">Subscribe to this category</string>
+    <string name="unsubscribe">Unsubscribe</string>
+    <string name="world_search">Enter category name to the search bar</string>
+    <string name="world_search_not_found">No results found\nfor the search: </string>
+
+
+    <string name="time_based_notification_switch">App reminder notifications</string>
+    <string name="message_from_yum">Message from YUM</string>
+    <string name="body_from_yum">YUM misses you!</string>
+
+
+
+    <string name="tilt_for_bigger_pic">Tilt the phone for bigger pictures</string>
+
+    <string name="world_category">World Category</string>
+
+    <string name="splash_long_time">Login take a lot of time,\n check internet connection</string>
+
+    <string name="remove">Remove</string>
+    <string name="remove_q">Remove category?</string>
+
+    <string name="recipe_remove">The recipe removed successfully!</string>
+    <string name="category_remove">The category removed successfully!</string>
+
+    <string name="check_recipe_remove">Are you sure want to delete that recipe? </string>
+    <string name="options">Options</string>
+    <string name="optionsUnderline"><u>Options</u></string>
+
+    <string name="changeLanguage">Language</string>
+
+
+
+</resources>
